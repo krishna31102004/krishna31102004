@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="IMG_1552.HEIC" width="100%" alt="Banner Image"/>
+  <img src="./IMG_1552.jpg" width="100%" alt="Banner Image"/>
 </p>
 
 <h1 align="center">
