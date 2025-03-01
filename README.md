@@ -74,7 +74,7 @@
 
 <p align="center">
   <!-- Example badges for LinkedIn, Twitter, etc. Replace # with your profile links -->
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/krishna-balaji-53785a257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
