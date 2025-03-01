@@ -77,9 +77,11 @@
   <a href="https://www.linkedin.com/in/krishna-balaji-53785a257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<a href="https://instagram.com/kb4086" target="_blank">
+  <img 
+       src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" 
+       alt="Instagram"/>
+</a>
   <a href="mailto:krishna311004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
