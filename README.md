@@ -118,7 +118,7 @@
   </a>
   <!-- Phone -->
   <a href="tel:+1 (480) 234-1166" target="_blank">
-    <img src="https://img.shields.io/badge/-+1(234)%20567--890-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
+    <img src="https://img.shields.io/badge/-+1%20(480)%20234--1166-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
   </a>
 </p>
 
