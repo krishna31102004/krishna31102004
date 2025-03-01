@@ -116,10 +116,10 @@
   <a href="mailto:krishna311004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="tel:+1 (480) 234-1166" target="_blank">
-  <img src="https://img.shields.io/badge/-+1%20(234)%20567-890-blue?style=for-the-badge&logo=Phone&logoColor=white" alt="Phone Badge"/>
-</a>
-
+  <!-- Phone -->
+  <a href="tel:+1234567890" target="_blank">
+    <img src="https://img.shields.io/badge/-+1(234)%20567--890-blue?style=for-the-badge&logo=phone&logoColor=white" alt="Phone Badge"/>
+  </a>
 </p>
 
 ---
