@@ -124,6 +124,9 @@
 
 ---
 
+
 <p align="center">
-  <em>Thanks for stopping by!</em>
+  🚀 <em>Thanks for visiting my digital playground!</em> 🚀 <br>
+  <strong>Let's connect and build something amazing together!</strong> 🌟
 </p>
+
