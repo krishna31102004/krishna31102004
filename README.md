@@ -10,11 +10,9 @@
 </h1>
 
 <p align="center">
-  <em>
-    **Welcome to my digital playground!** 🚀  
-I’m a software engineer passionate about building scalable applications, exploring AI, and crafting intuitive user experiences.  
-Constantly learning, experimenting, and pushing the limits of what’s possible.  
-  </em>
+  <strong>Welcome to my digital playground! 🚀</strong><br>
+  I’m a software engineer passionate about building scalable applications, exploring AI, and crafting intuitive user experiences.<br>
+  Constantly learning, experimenting, and pushing the limits of what’s possible.
 </p>
 
 <p align="center">
