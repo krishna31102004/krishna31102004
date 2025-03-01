@@ -62,11 +62,20 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Currently Learning
 
-- Data Structures & Algorithms  
-- Python for Data Science  
-- Web Development with React
+📌 **iOS Development with Swift & SwiftUI**  
+&nbsp;&nbsp; ↳ Building mobile applications, working with persistent storage, MVVM architecture, and integrating Web APIs.  
+
+📌 **Data Structures & Algorithms**  
+&nbsp;&nbsp; ↳ Practicing problem-solving with LeetCode and optimizing algorithmic thinking for coding interviews.  
+
+📌 **Text Analysis & NLP**  
+&nbsp;&nbsp; ↳ Implementing topic modeling, text classification, and similarity analysis with machine learning and transformers.  
+
+📌 **Full-Stack Development**  
+&nbsp;&nbsp; ↳ Enhancing Firebase-powered apps, working with React, Node.js, and database management.  
+
 
 ---
 
