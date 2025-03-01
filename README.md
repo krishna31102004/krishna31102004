@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/krishna31102004/krishna31102004/blob/main/IMG_1552.jpg" alt="Golden Gate" width="70%"/>
+  <img src="https://github.com/krishna31102004/krishna31102004/blob/main/IMG_1552.jpg" alt="Golden Gate" width="50%"/>
 </p>
 
 <h1 align="center">
