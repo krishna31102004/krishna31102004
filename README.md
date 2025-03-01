@@ -84,6 +84,14 @@
 
 ---
 
+## 🐍 Watch the Snake Eat My Contributions!
+
+![Snake animation](https://raw.githubusercontent.com/krishna31102004/snk/refs/heads/output/github-contribution-grid-snake.svg)
+
+
+
+---
+
 ## 🚀 Currently Learning
 
 📌 **iOS Development with Swift & SwiftUI**  
