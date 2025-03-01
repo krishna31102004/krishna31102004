@@ -26,89 +26,11 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <!-- Example: Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-       title="Python" 
-       alt="Python" 
-       width="40" 
-       height="40"/>&nbsp;
-  
-  <!-- Example: JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" 
-       title="JavaScript" 
-       alt="JavaScript" 
-       width="40" 
-       height="40"/>&nbsp;
-       
-  <!-- Example: HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-       title="HTML5" 
-       alt="HTML" 
-       width="40" 
-       height="40"/>&nbsp;
-  
-  <!-- Example: CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-       title="CSS3" 
-       alt="CSS" 
-       width="40" 
-       height="40"/>&nbsp;
-       
-  <!-- Example: React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-       title="React" 
-       alt="React" 
-       width="40" 
-       height="40"/>&nbsp;
-  
-  <!-- Example: Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" 
-       title="Node.js" 
-       alt="Node" 
-       width="40" 
-       height="40"/>&nbsp;
-       
-  <!-- Example: MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-       title="MySQL" 
-       alt="MySQL" 
-       width="40" 
-       height="40"/>&nbsp;
-       
-  <!-- Example: Firebase -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" 
-       title="Firebase" 
-       alt="Firebase" 
-       width="40" 
-       height="40"/>&nbsp;
-       
-  <!-- Example: Swift -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" 
-       title="Swift" 
-       alt="Swift" 
-       width="40" 
-       height="40"/>&nbsp;
-       
-  <!-- Example: Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-       title="Git" 
-       alt="Git" 
-       width="40" 
-       height="40"/>&nbsp;
-  
-  <!-- Example: GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-       title="GitHub" 
-       alt="GitHub" 
-       width="40" 
-       height="40"/>&nbsp;
-       
-  <!-- Example: VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-       title="VS Code" 
-       alt="VSCode" 
-       width="40" 
-       height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 </p>
 
 
