@@ -53,19 +53,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🧠 DecodeAI](https://decodeai.vercel.app) | No-code AI toolkit that teaches people how to build with AI confidently without touching Git or the terminal | Next.js, Shadcn/UI, Firebase |
-| [🌱 E-Waste Wise India](https://e-waste-wise-steel.vercel.app) | Interactive platform to map e-waste drop-off and explain why recycling matters in plain language | React, Leaflet, Node.js |
-| [💸 FinMate](https://finmate-coach.vercel.app) | Personal finance and risk coaching for students, with insights and warnings instead of just charts | Next.js, Python, ML |
-| [📚 GitHub Basics Trainer](https://github.com/krishna31102004) | Guided, step-by-step GitHub learning environment with live progress and clean onboarding | React, Zustand, Vite |
-
-<p align="center"><em>More builds (including iOS work, research tooling, and systems experiments) live at <a href="https://krishnabalaji.dev" target="_blank">krishnabalaji.dev</a> →</em></p>
-
----
-
 ## 💫 GitHub Universe
 
 <!-- GitHub Readme Stats -->
