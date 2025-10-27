@@ -47,23 +47,26 @@
 
 ## 💫 GitHub Universe
 
+<!-- GitHub Readme Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna31102004&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna31102004&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+<!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna31102004&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna31102004&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=krishna31102004&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna31102004&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
+<!-- GitHub Metrics Card -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishna31102004&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna31102004&theme=radical" alt="GitHub Metrics Summary" />
 </p>
+
 
 ---
 
