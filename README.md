@@ -20,18 +20,13 @@
 
 ---
 
-<!-- boot sequence / terminal intro -->
+<!-- animated boot sequence -->
 <p align="center">
-  <code>
-    &gt; Initializing Neural-System vΩ.∞ ...<br/>
-    &gt; Identity: Krishna Balaji detected ...<br/>
-    &gt; Status: Online ⬤<br/>
-    &gt; Mission: Build things that make reality feel interactive.<br/>
-    &gt; Authorization: Granted ✅
-  </code>
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2500&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=%3E+Initializing+Neural-System+v%CE%A9.%E2%88%9E+...;%3E+Identity:+Krishna+Balaji+detected+...;%3E+Status:+Online+%E2%9A%A1;%3E+Mission:+Build+things+that+make+reality+feel+interactive.;%3E+Authorization:+Granted+%E2%9C%85" alt="Boot sequence animation">
 </p>
 
 ---
+
 
 <div align="center">
   <img src="https://img.shields.io/badge/⚙️%20Building%20Tomorrow's%20Tech%20Today-black?style=for-the-badge&logo=vercel&logoColor=white" />
