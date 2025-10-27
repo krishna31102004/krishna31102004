@@ -97,6 +97,9 @@ Scaling React-Firebase-Node ecosystems for production-ready deployments.
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://krishnabalaji.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/krishna-balaji-53785a257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -114,10 +117,10 @@ Scaling React-Firebase-Node ecosystems for production-ready deployments.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=24&pause=1500&color=00FFFF&center=true&vCenter=true&width=550&lines=“Building+Intelligence+that+Empowers+Creativity”+✨;“Turning+Ideas+into+Interactive+Realities”+💡;“Dreaming+in+Code,+Living+in+Design”+🌌" alt="Typing animation">
+  <img src="https://img.shields.io/badge/Status-Online%20∙%20Building%20cool%20things-00FFFF?style=for-the-badge&logo=github&logoColor=000000" alt="Current status badge"/>
 </p>
 
 <p align="center">
-  ⚡ <em>Thanks for exploring my digital lab!</em> ⚡<br>
+  ⚡ <em>Thanks for exploring my digital lab.</em> ⚡<br>
   <strong>Let’s build something extraordinary together.</strong> 🌠
 </p>
