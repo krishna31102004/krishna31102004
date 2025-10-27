@@ -20,6 +20,19 @@
 
 ---
 
+<!-- boot sequence / terminal intro -->
+<p align="center">
+  <code>
+    &gt; Initializing Neural-System vΩ.∞ ...<br/>
+    &gt; Identity: Krishna Balaji detected ...<br/>
+    &gt; Status: Online ⬤<br/>
+    &gt; Mission: Build things that make reality feel interactive.<br/>
+    &gt; Authorization: Granted ✅
+  </code>
+</p>
+
+---
+
 <div align="center">
   <img src="https://img.shields.io/badge/⚙️%20Building%20Tomorrow's%20Tech%20Today-black?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
@@ -45,6 +58,19 @@
 
 ---
 
+## 🧩 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🧠 DecodeAI](https://decodeai.vercel.app) | No-code AI toolkit that teaches people how to build with AI confidently without touching Git or the terminal | Next.js, Shadcn/UI, Firebase |
+| [🌱 E-Waste Wise India](https://e-waste-wise-steel.vercel.app) | Interactive platform to map e-waste drop-off and explain why recycling matters in plain language | React, Leaflet, Node.js |
+| [💸 FinMate](https://finmate-coach.vercel.app) | Personal finance and risk coaching for students, with insights and warnings instead of just charts | Next.js, Python, ML |
+| [📚 GitHub Basics Trainer](https://github.com/krishna31102004) | Guided, step-by-step GitHub learning environment with live progress and clean onboarding | React, Zustand, Vite |
+
+<p align="center"><em>More builds (including iOS work, research tooling, and systems experiments) live at <a href="https://krishnabalaji.dev" target="_blank">krishnabalaji.dev</a> →</em></p>
+
+---
+
 ## 💫 GitHub Universe
 
 <!-- GitHub Readme Stats -->
@@ -67,7 +93,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna31102004&theme=radical" alt="GitHub Metrics Summary" />
 </p>
 
-
 ---
 
 ## 🧬 Dynamic Trail
@@ -76,21 +101,33 @@
   <img src="https://raw.githubusercontent.com/krishna31102004/snk/refs/heads/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishna31102004&color=blueviolet&style=flat-square&label=System+Uptime" alt="Profile views / Uptime counter"/>
+</p>
+
 ---
 
 ## 🚀 What I’m Exploring
 
-🛰️ **iOS & SwiftUI Development**  
+🛰️ <strong>iOS & SwiftUI Development</strong>  
 Designing sleek, performant apps powered by MVVM and RESTful APIs.
 
-🧠 **Data Structures & Algorithms**  
-Building deeper problem-solving intuition with LeetCode and real-world optimization.
+🧠 <strong>Data Structures & Algorithms</strong>  
+Building deeper problem solving intuition with LeetCode and real world optimization.
 
-📚 **Natural Language Processing**  
-Working on text classification, topic modeling, and transformer-based analytics.
+📚 <strong>Natural Language Processing</strong>  
+Working on text classification, topic modeling, and transformer based analytics.
 
-🌍 **Full-Stack Systems**  
-Scaling React-Firebase-Node ecosystems for production-ready deployments.
+🌍 <strong>Full Stack Systems</strong>  
+Scaling React Firebase Node ecosystems for production ready deployments.
+
+---
+
+## 💬 Dev Quote of the Moment
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
 ---
 
@@ -118,6 +155,11 @@ Scaling React-Firebase-Node ecosystems for production-ready deployments.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online%20∙%20Building%20cool%20things-00FFFF?style=for-the-badge&logo=github&logoColor=000000" alt="Current status badge"/>
+</p>
+
+<!-- binary / signature footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&lines=01001011+01010010+01001001+01010011+01001000+01001110+01000001;System+online...;Creating+next+innovation..." alt="Digital Signature">
 </p>
 
 <p align="center">
